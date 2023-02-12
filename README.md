@@ -1,2 +1,2 @@
 # teligram_api
-Codeschool
+Code o'g'irlamanglar insofli bulinglar
