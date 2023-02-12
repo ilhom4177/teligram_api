@@ -1,2 +1,2 @@
 # teligram_api
-Codeschool
+CODESCHOOL
